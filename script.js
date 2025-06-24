@@ -1,8 +1,8 @@
 // Rutas corregidas para imágenes
 const images = [
-  '../sonidos y fotos/img1.jpg',
-  '../sonidos y fotos/img2.jpg',
-  '../sonidos y fotos/img3.jpg'
+  'sonidos y fotos/img1.jpg',
+  'sonidos y fotos/img2.jpg',
+  'sonidos y fotos/img3.jpg'
 ];
 
 // Animación de lluvia de corazones y flores
